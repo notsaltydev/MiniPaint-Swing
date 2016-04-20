@@ -56,7 +56,7 @@ public SwingPaint() {
 	 wybranyKolor = Color.red;
 }
   
-  //Color Chooser BeginSSSSSSS
+  //Color Chooser Begin
   private class ButtonListener implements ActionListener {
 	    public void actionPerformed(ActionEvent e) {
 	    	Color c = JColorChooser.showDialog(null, "Choose a Color", wybranyKolor);
