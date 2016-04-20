@@ -120,7 +120,7 @@ public void show() {
     // show the swing paint result
     frame.setVisible(true);
  
-    // Now you can try our Swing Paint !!! Enjoy <img src="http://www.ssaurel.com/blog/wp-includes/images/smilies/icon_biggrin.gif" alt=":D" class="wp-smiley">
+    // Now you can try our Swing Paint !!! Enjoy
   }
  
 }
